@@ -1,4 +1,4 @@
-# MarkdownParser
+# Markdown Parser med JS (under 5kb)
 
 En lättviktig JavaScript-parser som hämtar en eller flera Markdown-fil(er), omvandlar innehållet till HTML och renderar det i angivet element på sidan.
 
